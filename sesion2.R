@@ -60,3 +60,5 @@ sum(filados)
 
 #primer valor es filas, 2do es columnas
 dim(matriz)
+
+#crear nueva lineas
